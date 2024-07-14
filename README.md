@@ -10,6 +10,8 @@ Shoot: Spacebar</h4>
 Pygame: Pygame is a Python library for game development.<br> 
 Install it using the following command in your terminal:<br>
 pip install pygame</h4>
+<h2>Initial game screen :</h2>
+<img src="startgame.png" alt="Start game" width="460" height="345">
 <h2>Gameplay Details:</h2>
 <h3>Objectives:</h3> 
 <h4>Players must skillfully maneuver their spaceship, dodge incoming asteroids, and eliminate enemy ships to achieve high scores and progress through increasingly challenging waves.</h4>
