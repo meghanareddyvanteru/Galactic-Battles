@@ -12,6 +12,11 @@ Install it using the following command in your terminal:<br>
 pip install pygame</h4>
 <h2>Initial game screen :</h2>
 <img src="startgame.png" alt="Start game" width="460" height="345">
+<h2>Shooting missiles :</h2>
+<img src="shootmissiles-1.png" alt="Shooting missiles" width="460" height="345">
+<img src="shootmissiles-2.png" alt="Shooting missiles" width="460" height="345">
+<h2>Game over screen</h2>
+<img src="gameover.png" alt="game over" width="460" height="345">
 <h2>Gameplay Details:</h2>
 <h3>Objectives:</h3> 
 <h4>Players must skillfully maneuver their spaceship, dodge incoming asteroids, and eliminate enemy ships to achieve high scores and progress through increasingly challenging waves.</h4>
